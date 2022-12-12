@@ -1,18 +1,3 @@
 # Table of contents
 
 * [前言](README.md)
-* [1. 记忆中的乡愁](1.-ji-yi-zhong-de-xiang-chou.md)
-* [2. 龙冈镇童年](2.-long-gang-zhen-tong-nian.md)
-* [3. 我的父亲](3.-wo-de-fu-qin.md)
-* [4. 启蒙老师不能忘](4.-qi-meng-lao-shi-bu-neng-wang.md)
-* [5. 我经历的战争](5.-wo-jing-li-de-zhan-zheng.md)
-* [6. 伍佑镇春秋](6.-wu-you-zhen-chun-qiu.md)
-* [7. 四清运动](7.-si-qing-yun-dong.md)
-* [8. 社教运动](8.-she-jiao-yun-dong.md)
-* [9. 文化大革命](9.-wen-hua-da-ge-ming.md)
-* [10. 怀念杜公](10.-huai-nian-du-gong.md)
-* [11. 我的局长](11.-wo-de-ju-chang.md)
-* [12. 我所经历的干部终身制](12.-wo-suo-jing-li-de-gan-bu-zhong-shen-zhi.md)
-* [13. 责任与担当](13.-ze-ren-yu-dan-dang.md)
-* [14. 认识之点滴](14.-ren-shi-zhi-dian-di.md)
-* [15. 新农村建设](15.-xin-nong-cun-jian-she.md)
