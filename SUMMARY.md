@@ -7,3 +7,4 @@
 * [2. 龙冈镇童年](2.-long-gang-zhen-tong-nian.md)
 * [3. 我的父亲](3.-wo-de-fu-qin.md)
 * [4. 启蒙老师不能忘](4.-qi-meng-lao-shi-bu-neng-wang.md)
+* [5. 我经历的战争](5.-wo-jing-li-de-zhan-zheng.md)
