@@ -8,3 +8,4 @@
 * [3. 我的父亲](3.-wo-de-fu-qin.md)
 * [4. 启蒙老师不能忘](4.-qi-meng-lao-shi-bu-neng-wang.md)
 * [5. 我经历的战争](5.-wo-jing-li-de-zhan-zheng.md)
+* [6. 伍佑镇春秋](6.-wu-you-zhen-chun-qiu.md)
