@@ -9,3 +9,4 @@
 * [4. 启蒙老师不能忘](4.-qi-meng-lao-shi-bu-neng-wang.md)
 * [5. 我经历的战争](5.-wo-jing-li-de-zhan-zheng.md)
 * [6. 伍佑镇春秋](6.-wu-you-zhen-chun-qiu.md)
+* [7. 四清运动](7.-si-qing-yun-dong.md)
