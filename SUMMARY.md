@@ -10,3 +10,4 @@
 * [5. 我经历的战争](5.-wo-jing-li-de-zhan-zheng.md)
 * [6. 伍佑镇春秋](6.-wu-you-zhen-chun-qiu.md)
 * [7. 四清运动](7.-si-qing-yun-dong.md)
+* [8. 社教运动](8.-she-jiao-yun-dong.md)
