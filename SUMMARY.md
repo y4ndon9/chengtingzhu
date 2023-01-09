@@ -11,3 +11,4 @@
 * [6. 伍佑镇春秋](6.-wu-you-zhen-chun-qiu.md)
 * [7. 四清运动](7.-si-qing-yun-dong.md)
 * [8. 社教运动](8.-she-jiao-yun-dong.md)
+* [9. 文化大革命](9.-wen-hua-da-ge-ming.md)
