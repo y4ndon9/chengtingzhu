@@ -16,3 +16,4 @@
 * [11. 我的局长](11.-wo-de-ju-chang.md)
 * [12. 我所经历的干部终身制](12.-wo-suo-jing-li-de-gan-bu-zhong-shen-zhi.md)
 * [13. 认识之点滴](13.-ren-shi-zhi-dian-di.md)
+* [14. 新农村建设](14.-xin-nong-cun-jian-she.md)
