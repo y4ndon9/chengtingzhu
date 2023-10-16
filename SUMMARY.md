@@ -14,3 +14,4 @@
 * [9. 文化大革命](9.-wen-hua-da-ge-ming.md)
 * [10. 怀念杜公](10.-huai-nian-du-gong.md)
 * [11. 我的局长](11.-wo-de-ju-chang.md)
+* [12. 我所经历的干部终身制](12.-wo-suo-jing-li-de-gan-bu-zhong-shen-zhi.md)
