@@ -19,3 +19,4 @@
 * [14. 新农村建设](14.-xin-nong-cun-jian-she.md)
 * [15. 郑板桥民间传说](15.-zheng-ban-qiao-min-jian-chuan-shuo.md)
 * [16. 退休歌](16.-tui-xiu-ge.md)
+* [17. 短信辞](17.-duan-xin-ci.md)
