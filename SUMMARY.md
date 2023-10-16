@@ -20,3 +20,4 @@
 * [15. 郑板桥民间传说](15.-zheng-ban-qiao-min-jian-chuan-shuo.md)
 * [16. 退休歌](16.-tui-xiu-ge.md)
 * [17. 短信辞](17.-duan-xin-ci.md)
+* [18. 二0一一年重阳节与夫人共登钟山](18.-er-0-yi-yi-nian-zhong-yang-jie-yu-fu-ren-gong-deng-zhong-shan.md)
