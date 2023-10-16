@@ -15,3 +15,4 @@
 * [10. 怀念杜公](10.-huai-nian-du-gong.md)
 * [11. 我的局长](11.-wo-de-ju-chang.md)
 * [12. 我所经历的干部终身制](12.-wo-suo-jing-li-de-gan-bu-zhong-shen-zhi.md)
+* [13. 认识之点滴](13.-ren-shi-zhi-dian-di.md)
